@@ -5,7 +5,7 @@ O processo de aprendizado é singular a cada pessoa, no entanto seguir certos ca
 
 Conhecimentos Básicos para facilitar sua vida como programador(GERAL):
   
-  - Leia e busque a teoria
+  - Leia e busque a teoria:
       Parece óbvio, mas muitas pessoas negligenciam esta etapa, por preguiça ou por achar que ja sabem sobre algo. Seja humilde, busque mais conhecimentos teoricos se atualize, é excelente querer fazer algo inovador e que supere nosso objetivo principal, no entanto isso pode gerar uma frustrações que nos levam ao desenteresse.
   
   - Organize seu código:
