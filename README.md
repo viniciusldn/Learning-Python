@@ -1,4 +1,4 @@
-# Learning-Python
+# Learning Python - Aprendendo Python 
 Comecei a aprender python e encontrei diversas duvidas que pude solucionar graças a comunidade, por isso criei este repositorio para compartilhar meus conhecimentos adiquiridos.
 
 O processo de aprendizado é singular a cada pessoa, no entanto seguir certos caminhos pode agilizar e/ou facilitar o crescimento, cursos e metas pessoais podem ajudar a estabelecer quais camihos seguir, entretanto em minha experiencia percebi que em certo momento do meu desenvolvimento algo estava em falta, por isso vou compartilhar passos que me auxiliaram e ainda me auxiliam, ainda que muitas vezes sejam negligenciados ou nem mesmo sejam do conhecimento de quem esta começando sua jornada
